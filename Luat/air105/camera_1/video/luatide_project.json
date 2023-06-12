@@ -1,0 +1,18 @@
+{
+	"version": "2.6",
+	"projectName": "video",
+	"projectType": "pure",
+	"corePath": "C:\\Users\\15567\\AppData\\Roaming\\LuatIDE\\LuatideCore\\Air105_CORE\\LuatOS-SoC_V0014_AIR105.soc",
+	"libPath": "c:\\Users\\15567\\AppData\\Roaming\\LuatIDE\\LuatideLib",
+	"moduleModel": "air105",
+	"appFile": [
+		"camera_test.lua",
+		"main.lua",
+		"GC032A_InitReg.txt"
+	],
+	"modulePort": "COM34",
+	"ignore": [
+		"luatide_project.json"
+	],
+	"simulatorRun": "disable"
+}

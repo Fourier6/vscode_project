@@ -1,0 +1,12 @@
+{
+	"version": "2.6",
+	"projectName": "camera_1",
+	"projectType": "pure",
+	"corePath": "c:\\Users\\15567\\AppData\\Roaming\\LuatIDE\\LuatideCore\\Air105_CORE\\LuatOS-SoC_V0014_AIR105.soc",
+	"libPath": "g:\\Vscode\\Luat\\air105\\camera_1\\video",
+	"moduleModel": "air105",
+	"appFile": [],
+	"modulePort": "COM34",
+	"ignore": [],
+	"simulatorRun": "disable"
+}

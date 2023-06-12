@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"name": "FOC_1",
+			"path": "../PIO/esp32/FOC_1"
+		},
+		{
+			"name": "air32f1103cb_test",
+			"path": "../PIO/stm32/air32f1103cb_test"
+		},
+		{
+			"name": "FOC_2",
+			"path": "../PIO/esp32/FOC_2"
+		},
+		{
+			"name": "s3_test",
+			"path": "../PIO/esp32/s3_test"
+		},
+		{
+			"name": "psram_test",
+			"path": "../PIO/esp32/psram_test"
+		},
+		{
+			"name": "balance_car",
+			"path": "../PIO/esp32/balance_car"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"random": "cpp",
+			"*.tcc": "c",
+			"bitset": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"cmath": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}

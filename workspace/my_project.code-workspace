@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../my_github/my_project/my_project"
+		},
+		{
+			"name": "Vscode",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
