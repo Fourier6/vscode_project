@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../my_github/my_project/my_project"
+		},
+		{
+			"name": "Vscode",
+			"path": ".."
+		},
+		{
+			"name": "ikun",
+			"path": "../../my_github/ikun/ikun"
+		}
+	],
+	"settings": {}
+}

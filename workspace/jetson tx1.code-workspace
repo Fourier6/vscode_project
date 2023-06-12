@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../jetson tx1"
+		},
+		{
+			"name": "chejv_s3_1",
+			"path": "../PIO/esp32/chejv_s3_1"
+		},
+		{
+			"path": "../唐宇迪opencv"
+		},
+		{
+			"name": "simole_foc_1",
+			"path": "../PIO/esp32/simole_foc_1"
+		},
+		{
+			"name": "s3_test",
+			"path": "../PIO/esp32/s3_test"
+		},
+		{
+			"path": "../../yolo/yolov8"
+		},
+		{
+			"path": "C:/Users/15567/Desktop/train3"
+		},
+		{
+			"path": "../../yolo/yolov5-master1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iterator": "cpp"
+		}
+	}
+}

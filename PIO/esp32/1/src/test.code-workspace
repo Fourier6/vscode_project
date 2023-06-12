@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "test",
+			"path": "../../../../test"
+		},
+		{
+			"path": "../../../../Vscode/2.Code"
+		},
+		{
+			"name": "clock",
+			"path": "../../../clock"
+		},
+		{
+			"path": "../../../../Vscode/vue"
+		},
+		{
+			"path": "H:/作业/java"
+		},
+		{
+			"path": "../../../../单片机/图像处理"
+		},
+		{
+			"path": "../../../../Vscode/jetson tx1"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"atomic": "cpp",
+			"cstdint": "cpp"
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
